@@ -15,4 +15,4 @@ by reading through the [example](https://github.com/Ezcha/shocknet-js/blob/maste
 Documentation for both the client and server sides of Shocknet can be found [here](https://shocknet.ezcha.net).
 
 ## Client
-The client side scripts for GameMaker Studio 2 can be found in the Marketplace [here](#coming-soon).
+The client side scripts for GameMaker Studio 2 can be found in the Marketplace [here](https://marketplace.yoyogames.com/assets/6962/shocknet).
