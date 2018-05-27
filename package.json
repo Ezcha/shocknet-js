@@ -1,0 +1,19 @@
+{
+  "name": "shocknet",
+  "version": "1.0.0",
+  "description": "GameMaker compatible networking",
+  "main": "index.js",
+  "homepage": "https://shocknet.ezcha.net",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ezcha",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ezcha/shocknet-jst"
+  },
+  "dependencies": {
+    "binary-parser": "^1.3.2"
+  }
+}
