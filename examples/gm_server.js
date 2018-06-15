@@ -1,4 +1,4 @@
-const shocknet = require('./index.js');
+const shocknet = require('../index.js');
 
 // Setup variables
 var exampleServer = new shocknet.Server;

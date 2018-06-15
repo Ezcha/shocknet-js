@@ -1,6 +1,6 @@
 {
   "name": "shocknet",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "GameMaker compatible networking",
   "main": "index.js",
   "homepage": "https://shocknet.ezcha.net",

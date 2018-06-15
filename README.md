@@ -8,7 +8,7 @@ Installing Shocknet is easy. Create a directory for your server and run `npm i s
 
 ## Getting started
 A full guide for getting started is in the works, but for now you should be able to figure out how it all works
-by reading through the [example](https://github.com/Ezcha/shocknet-js/blob/master/example.js) and
+by reading through the [example](https://github.com/Ezcha/shocknet-js/blob/master/examples/gm_server.js) and
 [Documentation](https://shocknet.ezcha.net).
 
 ## Documentation
